@@ -1,0 +1,36 @@
+body {
+    width: 1280px;
+    height: auto;
+    margin: 0 auto;
+    background-image: radial-gradient(white, cyan, darkblue);
+    background-size: fill;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    margin-left: 375px;
+    color: blanchedalmond;
+    font-size: 48px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: blanchedalmond;
+}
+
+h2 {
+    font-size: 36px;
+    margin-left: 400px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 2.5;
+    font-weight: bold;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: 2px dotted black;
+    padding: 6px;
+}
